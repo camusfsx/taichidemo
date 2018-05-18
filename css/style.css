@@ -20,7 +20,6 @@ body{
     border-radius: 50%;
     margin:auto;
     position: relative;
-    position: fixed;
     animation: run 2s linear infinite;
 }
 .yin{
